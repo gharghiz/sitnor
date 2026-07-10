@@ -7,8 +7,8 @@
     "keywords": ["web design", "agence web Maroc", "création site web", "design premium", "SITNOR"],
     "contact": {
       "email": "hbiktach@gmail.com",
-      "phone": "+212637932093",
-      "phoneDisplay": "+212 6 37 93 20 93",
+      "phone": "+212713607641",
+      "phoneDisplay": "+212 7 13 60 76 41",
       "instagram": "https://www.instagram.com/sitnor1/",
       "location": "Casablanca, Maroc"
     }
@@ -75,7 +75,6 @@
         "description": "Sites vitrines et corporate haut de gamme, pensés mobile-first avec une identité forte et mémorable.",
         "features": ["Design Figma sur-mesure", "Responsive parfait", "Animations subtiles"],
         "icon": "layout",
-        "price": "À partir de 8 500 MAD"
       },
       {
         "id": "ecommerce",
@@ -83,7 +82,6 @@
         "description": "Boutiques qui vendent pendant que vous dormez. Optimisées pour la confiance et le panier moyen.",
         "features": ["Shopify / WooCommerce / Next.js", "Paiement CMI & Stripe", "Abandon panier -35%"],
         "icon": "shopping",
-        "price": "À partir de 15 000 MAD"
       },
       {
         "id": "refonte",
@@ -91,7 +89,6 @@
         "description": "Vous avez déjà un site mais il ne performe pas ? On le transforme en 3 semaines.",
         "features": ["Audit UX/UI complet", "+Diagnostique SEO", "Migration sans perte"],
         "icon": "refresh",
-        "price": "À partir de 5 000 MAD"
       },
       {
         "id": "branding",
@@ -99,7 +96,6 @@
         "description": "Logo, palette, typographie, système visuel complet. Cohérence sur tous les supports.",
         "features": ["Logo & logotype", "Charte graphique", "Pack réseaux sociaux"],
         "icon": "pen",
-        "price": "À partir de 4 000 MAD"
       },
       {
         "id": "seo",
@@ -107,7 +103,6 @@
         "description": "Être beau ne sert à rien si personne ne vous trouve. On vous place en première page.",
         "features": ["SEO technique", "Contenu optimisé", "Core Web Vitals 100/100"],
         "icon": "search",
-        "price": "À partir de 3 500 MAD/mois"
       },
       {
         "id": "maintenance",
@@ -115,7 +110,6 @@
         "description": "Votre site reste rapide, sécurisé et à jour. Support prioritaire sous 2h.",
         "features": ["Backups quotidiens", "Mises à jour & sécurité", "Support WhatsApp"],
         "icon": "shield",
-        "price": "À partir de 900 MAD/mois"
       }
     ]
   },
@@ -155,7 +149,7 @@
         "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=1200&q=80",
         "tags": ["SaaS", "Web App", "Design System"],
         "link": "#",
-        "year": "2024",
+        "year": "2026",
         "result": "Levée 1.2M€"
       },
       {
@@ -166,7 +160,7 @@
         "image": "https://images.unsplash.com/photo-1501339847302-ac426a4a7cbb?auto=format&fit=crop&w=1200&q=80",
         "tags": ["Branding", "Art Direction", "Web"],
         "link": "#",
-        "year": "2024",
+        "year": "2026",
         "result": "Sold-out J1"
       },
       {
@@ -177,7 +171,7 @@
         "image": "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1200&q=80",
         "tags": ["Minimaliste", "Portfolio", "Motion"],
         "link": "#",
-        "year": "2024",
+        "year": "2026",
         "result": "x3 temps passé"
       },
       {

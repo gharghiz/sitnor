@@ -1,0 +1,294 @@
+{
+  "site": {
+    "name": "SITNOR Web Design",
+    "shortName": "SITNOR",
+    "domain": "sitnor.com",
+    "description": "Agence web design premium basée au Maroc. Nous concevons des sites web modernes, rapides et orientés conversion pour les entreprises ambitieuses.",
+    "keywords": ["web design", "agence web Maroc", "création site web", "design premium", "SITNOR"],
+    "contact": {
+      "email": "hbiktach@gmail.com",
+      "phone": "+212637932093",
+      "phoneDisplay": "+212 6 37 93 20 93",
+      "instagram": "https://www.instagram.com/sitnor1/",
+      "location": "Casablanca, Maroc"
+    }
+  },
+  "navigation": [
+    { "label": "Accueil", "href": "#accueil" },
+    { "label": "À propos", "href": "#apropos" },
+    { "label": "Services", "href": "#services" },
+    { "label": "Portfolio", "href": "#portfolio" },
+    { "label": "FAQ", "href": "#faq" },
+    { "label": "Blog", "href": "#blog" }
+  ],
+  "hero": {
+    "badge": "Disponible pour nouveaux projets — Q1 2026",
+    "title": "Nous créons des sites web qui",
+    "titleHighlight": "transforment vos visiteurs en clients.",
+    "subtitle": "Agence web design premium à Casablanca. Design minimaliste, performance obsessionnelle et stratégie orientée résultats. Pas de templates — que du sur-mesure.",
+    "ctaPrimary": { "label": "Démarrer un projet", "href": "#contact" },
+    "ctaSecondary": { "label": "Voir le portfolio", "href": "#portfolio" },
+    "stats": [
+      { "value": "48+", "label": "Projets livrés" },
+      { "value": "100%", "label": "Clients satisfaits" },
+      { "value": "2.4s", "label": "Temps de chargement moyen" }
+    ],
+    "clients": ["Atlas Capital", "Noir & Blanc", "Maison Lina", "OASIS Co"]
+  },
+  "about": {
+    "eyebrow": "À propos",
+    "title": "Le design n'est pas qu'esthétique. C'est une stratégie.",
+    "description": "SITNOR est une agence indépendante fondée sur une conviction : un beau site qui ne convertit pas est un échec. On allie esthétique minimaliste, UX chirurgicale et performance brute.",
+    "paragraphs": [
+      "Chaque projet commence par une question business, pas par un moodboard. Quel est votre objectif de chiffre d'affaires ? Qui est votre client idéal ? Quel est son parcours d'achat ?",
+      "À partir de là, nous construisons une expérience digitale qui élimine les frictions, instaure la confiance et guide vers l'action."
+    ],
+    "values": [
+      {
+        "title": "Clarté avant tout",
+        "description": "Pas de jargon. Pas de design pour le design. Chaque pixel a une fonction."
+      },
+      {
+        "title": "Performance mesurable",
+        "description": "Score Lighthouse >95, chargement <2.5s, taux de conversion +40% en moyenne."
+      },
+      {
+        "title": "Collaboration totale",
+        "description": "Vous avez accès à Figma 24/7, des points hebdomadaires, zéro surprise."
+      }
+    ],
+    "image": "https://images.unsplash.com/photo-1558655146-9f40138edfeb?auto=format&fit=crop&w=800&q=80",
+    "author": {
+      "name": "H. Biktach",
+      "role": "Fondateur & Lead Designer",
+      "quote": "Je n'ai pas créé SITNOR pour faire de jolis sites. Je l'ai créé pour construire des machines à générer du revenu."
+    }
+  },
+  "services": {
+    "eyebrow": "Services",
+    "title": "Des expertises complètes pour dominer votre marché.",
+    "subtitle": "Tout ce dont vous avez besoin pour passer d'invisible à incontournable en ligne.",
+    "items": [
+      {
+        "id": "webdesign",
+        "title": "Web Design Premium",
+        "description": "Sites vitrines et corporate haut de gamme, pensés mobile-first avec une identité forte et mémorable.",
+        "features": ["Design Figma sur-mesure", "Responsive parfait", "Animations subtiles"],
+        "icon": "layout",
+        "price": "À partir de 8 500 MAD"
+      },
+      {
+        "id": "ecommerce",
+        "title": "E-commerce haute conversion",
+        "description": "Boutiques qui vendent pendant que vous dormez. Optimisées pour la confiance et le panier moyen.",
+        "features": ["Shopify / WooCommerce / Next.js", "Paiement CMI & Stripe", "Abandon panier -35%"],
+        "icon": "shopping",
+        "price": "À partir de 15 000 MAD"
+      },
+      {
+        "id": "refonte",
+        "title": "Refonte & Optimisation",
+        "description": "Vous avez déjà un site mais il ne performe pas ? On le transforme en 3 semaines.",
+        "features": ["Audit UX/UI complet", "+Diagnostique SEO", "Migration sans perte"],
+        "icon": "refresh",
+        "price": "À partir de 5 000 MAD"
+      },
+      {
+        "id": "branding",
+        "title": "Branding & Identité",
+        "description": "Logo, palette, typographie, système visuel complet. Cohérence sur tous les supports.",
+        "features": ["Logo & logotype", "Charte graphique", "Pack réseaux sociaux"],
+        "icon": "pen",
+        "price": "À partir de 4 000 MAD"
+      },
+      {
+        "id": "seo",
+        "title": "SEO & Performance",
+        "description": "Être beau ne sert à rien si personne ne vous trouve. On vous place en première page.",
+        "features": ["SEO technique", "Contenu optimisé", "Core Web Vitals 100/100"],
+        "icon": "search",
+        "price": "À partir de 3 500 MAD/mois"
+      },
+      {
+        "id": "maintenance",
+        "title": "Maintenance Elite",
+        "description": "Votre site reste rapide, sécurisé et à jour. Support prioritaire sous 2h.",
+        "features": ["Backups quotidiens", "Mises à jour & sécurité", "Support WhatsApp"],
+        "icon": "shield",
+        "price": "À partir de 900 MAD/mois"
+      }
+    ]
+  },
+  "portfolio": {
+    "eyebrow": "Portfolio",
+    "title": "Sélection de projets récents.",
+    "subtitle": "Des marques qui nous ont fait confiance pour leur transformation digitale.",
+    "categories": ["Tous", "Corporate", "E-commerce", "SaaS", "Branding"],
+    "items": [
+      {
+        "id": "atlas",
+        "title": "Atlas Capital — Site Corporate",
+        "category": "Corporate",
+        "description": "Refonte complète pour un fonds d'investissement. +240% de demandes de contact en 60 jours.",
+        "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&w=1200&q=80",
+        "tags": ["Next.js", "Design System", "SEO"],
+        "link": "#",
+        "year": "2025",
+        "result": "+240% leads"
+      },
+      {
+        "id": "maisonlina",
+        "title": "Maison Lina — E-commerce Luxe",
+        "category": "E-commerce",
+        "description": "Boutique de mode éthique. Panier moyen x2.1 et taux de conversion à 4.8%.",
+        "image": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?auto=format&fit=crop&w=1200&q=80",
+        "tags": ["Shopify", "UX Premium", "Paiement"],
+        "link": "#",
+        "year": "2025",
+        "result": "4.8% conversion"
+      },
+      {
+        "id": "flow",
+        "title": "Flow — Plateforme SaaS",
+        "category": "SaaS",
+        "description": "Landing + dashboard pour un SaaS B2B. Lever de fonds réussie juste après le lancement.",
+        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=1200&q=80",
+        "tags": ["SaaS", "Web App", "Design System"],
+        "link": "#",
+        "year": "2024",
+        "result": "Levée 1.2M€"
+      },
+      {
+        "id": "oasis",
+        "title": "OASIS — Identité & Site",
+        "category": "Branding",
+        "description": "Branding complet pour un café spécialité à Marrakech. File d'attente dès le premier jour.",
+        "image": "https://images.unsplash.com/photo-1501339847302-ac426a4a7cbb?auto=format&fit=crop&w=1200&q=80",
+        "tags": ["Branding", "Art Direction", "Web"],
+        "link": "#",
+        "year": "2024",
+        "result": "Sold-out J1"
+      },
+      {
+        "id": "noirblanc",
+        "title": "Noir & Blanc — Studio d'architectes",
+        "category": "Corporate",
+        "description": "Portfolio minimaliste qui laisse parler les projets. Temps passé x3 sur le site.",
+        "image": "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1200&q=80",
+        "tags": ["Minimaliste", "Portfolio", "Motion"],
+        "link": "#",
+        "year": "2024",
+        "result": "x3 temps passé"
+      },
+      {
+        "id": "pure",
+        "title": "PURE — D2C Skincare",
+        "category": "E-commerce",
+        "description": "Marque de soins clean. ROAS de 4.2 après refonte de l'expérience d'achat.",
+        "image": "https://images.unsplash.com/photo-1556228578-0d85b1a4d571?auto=format&fit=crop&w=1200&q=80",
+        "tags": ["E-commerce", "Conversion", "CRO"],
+        "link": "#",
+        "year": "2025",
+        "result": "ROAS 4.2"
+      }
+    ]
+  },
+  "faq": {
+    "eyebrow": "FAQ",
+    "title": "Questions fréquentes.",
+    "subtitle": "Tout ce que vous devez savoir avant de commencer.",
+    "items": [
+      {
+        "question": "Combien coûte un site chez SITNOR ?",
+        "answer": "Nos projets démarrent à 8 500 MAD pour un site vitrine premium et peuvent monter à 35 000 MAD+ pour une plateforme e-commerce complète. Tout est sur-mesure, nous établissons un devis précis après un premier appel de 20 minutes."
+      },
+      {
+        "question": "Quels sont les délais de livraison ?",
+        "answer": "Un site vitrine : 2 à 3 semaines. Un e-commerce : 3 à 5 semaines. Une identité complète : 1 à 2 semaines. Nous travaillons en sprint avec une roadmap claire. Pas de retard, jamais."
+      },
+      {
+        "question": "Travaillez-vous avec des templates ?",
+        "answer": "Jamais. Chaque pixel est dessiné dans Figma pour votre marque spécifiquement. Vous ne verrez jamais votre design ailleurs. C'est la différence entre un costume sur-mesure et un prêt-à-porter."
+      },
+      {
+        "question": "Que comprend la maintenance ?",
+        "answer": "Hébergement ultra-rapide (Vercel), certificats SSL, sauvegardes quotidiennes, mises à jour de sécurité, corrections de bugs et support prioritaire sur WhatsApp avec réponse sous 2h ouvrées."
+      },
+      {
+        "question": "Peut-on payer en plusieurs fois ?",
+        "answer": "Oui. 40% à la commande, 30% à la validation de la maquette, 30% à la mise en ligne. Pour les projets >20 000 MAD, nous proposons jusqu'à 4 échéances."
+      },
+      {
+        "question": "Faites-vous le référencement SEO ?",
+        "answer": "Tous nos sites sont 100/100 Lighthouse par défaut : balisage sémantique parfait, temps de chargement <2.5s, images optimisées, métadonnées, sitemap. En option, nous gérons le SEO de contenu et le netlinking pour vous placer Top 3."
+      }
+    ]
+  },
+  "blog": {
+    "eyebrow": "Journal",
+    "title": "Insights, méthodes et coulisses.",
+    "subtitle": "On partage ce qu'on apprend en construisant des sites qui performant vraiment.",
+    "items": [
+      {
+        "id": "1",
+        "title": "Pourquoi 83% des sites d'agences au Maroc perdent des clients",
+        "excerpt": "Analyse de 120 sites d'agences marocaines. Les erreurs fatales qui coûtent des millions.",
+        "date": "15 Jan 2026",
+        "readTime": "6 min",
+        "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&w=800&q=80",
+        "category": "Stratégie",
+        "slug": "#"
+      },
+      {
+        "id": "2",
+        "title": "Comment nous avons atteint un score Lighthouse de 100/100",
+        "excerpt": "Le guide technique complet sans bullshit pour une performance parfaite sous Next.js.",
+        "date": "02 Jan 2026",
+        "readTime": "8 min",
+        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=800&q=80",
+        "category": "Performance",
+        "slug": "#"
+      },
+      {
+        "id": "3",
+        "title": "Le minimalisme n'est pas vide. Il est intentionnel.",
+        "excerpt": "Pourquoi Apple, Linear et Stripe dominent avec moins. Et comment l'appliquer à votre marque.",
+        "date": "18 Déc 2025",
+        "readTime": "5 min",
+        "image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&w=800&q=80",
+        "category": "Design",
+        "slug": "#"
+      }
+    ]
+  },
+  "contact": {
+    "eyebrow": "Contact",
+    "title": "Vous avez une idée ? On la transforme en revenu.",
+    "subtitle": "Réponse sous 2h en journée ouvrée. Pas de formulaire noir trou.",
+    "form": {
+      "nameLabel": "Votre nom complet",
+      "namePlaceholder": "Ex: Youssef Alami",
+      "emailLabel": "Email professionnel",
+      "emailPlaceholder": "youssef@entreprise.com",
+      "serviceLabel": "Service souhaité",
+      "serviceOptions": ["Web Design Premium", "E-commerce", "Refonte", "Branding", "SEO & Performance", "Autre"],
+      "budgetLabel": "Budget estimé",
+      "budgetOptions": ["< 10k MAD", "10k - 20k MAD", "20k - 40k MAD", "40k+ MAD"],
+      "messageLabel": "Parlez-nous de votre projet",
+      "messagePlaceholder": "Objectifs, délai, inspirations...",
+      "submitLabel": "Envoyer ma demande →",
+      "successMessage": "Message prêt ! Votre client email va s'ouvrir avec les infos pré-remplies. À tout de suite !",
+      "privacy": "En envoyant ce formulaire, vous acceptez d'être recontacté par SITNOR. Pas de spam. Jamais."
+    },
+    "infoTitle": "Préférez l'humain ?",
+    "infoSubtitle": "Appelez ou écrivez directement. On répond plus vite que la lumière."
+  },
+  "footer": {
+    "tagline": "Agence web design premium. On ne fait pas des sites jolis. On fait des sites qui vendent.",
+    "copyright": "© 2026 SITNOR Web Design. Tous droits réservés. Fait avec obsession à Casablanca.",
+    "links": {
+      "services": ["Web Design", "E-commerce", "Refonte", "Branding", "SEO"],
+      "company": ["À propos", "Portfolio", "Journal", "Contact", "Mentions légales"]
+    }
+  }
+}
